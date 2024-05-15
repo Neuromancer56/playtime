@@ -1,4 +1,4 @@
-# Mob Limiter
+# Playtime
 
 Usage:
 Enable the mod
